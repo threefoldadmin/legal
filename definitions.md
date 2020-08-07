@@ -2,19 +2,38 @@
 
 ## ThreeFold (TF)
 
-The concept for creating a new internet by means of a new digital token.
+AN INTERNET BUILT FOR EVERYONE, BY EVERYONE.
 
-All the ideas and content created for this concept are opensource and stored in this repository. 
+Threefold is a peer-to-peer network of network, storage an compute capacity for an upgraded internet, laying the foundation for a more sustainable, smart, and sovereign digital world where everyone can participate and prosper.
+
+All the ideas and content created for this concept are opensource and stored in [github](See https://github.com/threefoldfoundation). 
 A group of volunteers and the ThreeFold Foundation maintain these repositories.
 
-Also look at the ThreeFold [website](https://threefoldtoken.com/).
+See https://github.com/threefoldfoundation
 
 
 ## ThreeFold Foundation (TFF)
 
-A non for profit organization who contribute to the ThreeFold concept.
-Meet them at https://threefoldtoken.com/team/
+The ThreeFold Foundation is not ThreeFold — rather, it is a participant in the movement to bring the world a truly peer-to-peer internet. We acknowledge and support the many people and organizations around the world who bring crucial support to the growth and adoption of the ThreeFold Grid.
+
+A non for profit organization who contribute to the ThreeFold concept. 
+
 The Foundation is a promotion and coordination organization executed by ThreeFold FZC in Dubai.
+
+>  Work is ongoing to make the Foundation a global distributed concept with probably more than 1 legal entity. 
+
+## Non For Profit
+
+Non-for-profit organizations are types of organizations that do not earn profits for its owners. All of the money earned by or donated to a non-for-profit organization is used in pursuing the organization's objectives and keeping it running. Employees or contributors can be paid for the services provided.
+
+In the case of TFF following remarks might be useful
+
+- Many non for profits get a legal status by the government to not have to pay tax, in our case the foundation is in Dubai, there is no Tax implication in Dubai as such we didn't need this status or certification. 
+- TFF has been funded by its original founders by means of loans or investment in kind or tokens, this money can be returned to the founders whenever cashflow allows (which is not the case yet).
+- TFF directors/shareholders do everything they can to only operate out of the best interests of the ThreeFold Project.
+- A project is under way to officialize the structure with strict governance e.g. a company called ThreeFold VZW has been created in Belgium with official governance around non for profit structure. This company is not used yet. Other alternatives are being researched at this moment (Aug 2020).
+- ThreeFold FZC has farmed tokens which can be used as gifts towards contributors or employees.
+
 
 ## ThreeFold Grid (TFG)
 
