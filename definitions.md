@@ -211,3 +211,8 @@ The TF Wallet works together with the TF Chain.
 
 
 > Note: we found out this link was broken on a contract, document restored original on https://docs.grid.tf/threefold/info/src/commit/005bf93f0fb0a80096fc89959eb164fb43ebefc5/legal/definitions.md (2 years old)
+
+### history
+
+original info was on https://docs.grid.tf/threefold/info/src/commit/e35ddfac54e924e2a44b2e0dba46e0ead7681e84/legal/definitions.md
+
