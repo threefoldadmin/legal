@@ -6,7 +6,7 @@ AN INTERNET BUILT FOR EVERYONE, BY EVERYONE.
 
 Threefold is a peer-to-peer network of network, storage an compute capacity for an upgraded internet, laying the foundation for a more sustainable, smart, and sovereign digital world where everyone can participate and prosper.
 
-All the ideas and content created for this concept are opensource and stored in (github)[See https://github.com/threefoldfoundation]. 
+All the ideas and content created for this concept are opensource and stored in [github](See https://github.com/threefoldfoundation). 
 A group of volunteers and the ThreeFold Foundation maintain these repositories.
 
 See https://github.com/threefoldfoundation
