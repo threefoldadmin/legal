@@ -14,7 +14,7 @@ Also look at the ThreeFold [website](https://threefoldtoken.com/).
 
 A non for profit organization who contribute to the ThreeFold concept.
 Meet them at https://threefoldtoken.com/team/
-The Foundation is a promotion and coordination organization.
+The Foundation is a promotion and coordination organization executed by ThreeFold FZC in Dubai.
 
 ## ThreeFold Grid (TFG)
 
@@ -41,20 +41,20 @@ This Internet capacity is produced and allocated locally - similar to the way el
 
 The ThreeFold Token is a digital Token which allows anyone to buy and sell IT Capacity on the TF Grid. This token only gets issued by the TF Chain if a TF Pool gets connected to the TF Grid.
 
-The TF Chain can issue a maximum of 100 billion tokens.
+The TF Chain can issue a maximum of 4 billion tokens (gen 2).
 
 ## TF Chain (TFC)
 
 The blockchain technology as used by the ThreeFold Grid.
 This blockchain technology is used to
 
-- let you store & trade your TFTs
-- buy/sell capacity on the TFG
-- register capacity of the TFG
-- provision IT workloads on the TFG
+- let you store & trade your TFTs: uses Stellar Public Blockchain platform
+- buy/sell capacity on the TFG: TFExplorer
+- register capacity of the TFG: TFExplorer
+- provision IT workloads on the TFG: TFExplorer
 - ...
 
-see the following [github repos](https://github.com/rivine)
+see the following [github repos](https://github.com/threefoldtech)
 
 ## TF Operating System 
 
@@ -62,8 +62,8 @@ The ThreeFold Operating system is the software which makes it possible to conver
 
 Based on 
 
-- [Zero-OS](https://github.com/zero-os) = Ultra Efficient Stateless Operating System
-- [Jumpscale](https://github.com/Jumpscale/) = Automation Framework (self healing, ...)
+- [Zero-OS](https://github.com/threefoldtech/zos) = Ultra Efficient Stateless Operating System
+- [Jumpscale](https://github.com/threefoldtech/js-ng) = Automation Framework (self healing, ...)
 
 ## TF Node
 
@@ -81,7 +81,7 @@ Based on
 ## Cloud Units
 
 Units of IT capacity as sold from the TF Grid to Users.
-More info see [here](https://docs.grid.tf/threefold/info/src/branch/master/concepts/cloud_units.md)
+More info see [on our wiki](https://wiki.threefold.io/#/cloud_units)
 
 
 # ThreeFold Farming
@@ -137,7 +137,7 @@ A Cooperative can supply any or all of following services.
     - monitoring of the infrastructure (hardware and software).
 - For Managed Capacity a Cooperative or TF Farmer will have to make an agreement with GIG.Tech to get the required software required to create a Managed Capacity Farming Pool (see below).
 
-## Unmanaged Capacity
+## Do It Yourself Capacity (DIY, or Unmanaged Capacity)
 
 Unmanaged IT Capacity can exist everywhere; in people’s home, in mobile telephone masts, in utility cabinets, next to railways or motorways, anywhere where internet lines meet electrical outlets, any IT Hosting or Datacenter Facility. This capacity is deployed to the TF Grid and has no people involved to manage its operations (apart from the physical and network aspects).  Farmers have no access to the TF Nodes purchased. They can only use the capacity produced in the exact same way as any other user, i.e. through the TF Chain, in a secure private and neutral way, equally applicable to all.
 
@@ -150,31 +150,20 @@ Unmanaged capacity provides the following 3 basic services
 These basic services are ordered through the TF Chain only.
 SLA's (service level agreements) cannot be be guaranteed on Unmanaged Capacity and as such not registered in the TF Chain.
 
+
+## Certified Capacity
+
+Capacity which received certification as organized by ThreeFold Tech.
+
 ## Managed Capacity
 
 Managed capacity is capacity that sits in a datacenter or other controlled environment where people operate and maintain supervision of the capacity connected to the TF Grid and published in the TF Directory. SLA (Service Level Agreements) are provided on this capacity like uptime, guaranteed bandwidth, response times, ...
 
-TF Farmers have access to the TF Nodes and to the GIG Tech Management Software around it.
+TF Farmers have access to the TF Nodes.
 
 Features Only Available In A Managed Capacity Farming Pool
 
 - Published & Tracked (monitored) Service Level Agreements
-
-GIG Tech software provides additional capabilities for a Managed Farming Pool:
-
-- Monitoring & uptime management software.
-- OpenvCloud Portal (full blown software stack to allow management of thousands of nodes and VM's).
-- Virtual Machine support.
-- High Performance Storage (block) for virtual disks for VM's.
-- High Performance Networking support for VM's.
-- Seamless integration with enterprise networking solutions for VM's..
-- Integration with private Identity Management Solutions (e.g. LDAP, Active Directory, ...) (\*)
-- Lots of predefined managed application templates (self healing templates for apps)
-- Supports MS Windows (OS) and other Microsoft Applications
-
-*(\*) roadmap*
-
-A TF Farmer or TF Cooperative needs to have an agreement with GIG Tech in place. GIG Tech will supply the required software to allow the TF Farmer or TF Cooperative to connect this Managed Capacity to the TF Grid.
 
 # Legal
 
@@ -196,11 +185,20 @@ The Product has been defined on the contract who refers to this document.
 
 Is the person or company or organization who buys The Product from The Company
 
+## ThreeFold Tech (TFTech)
+
+Sofware Technology company in Belgium.
+
+Has no direct relationship with the TFGrid or TFTokens. TFTech does not farm and ThreeFold Tokens and has no impact or does not give any direction to anything happening on the ThreeFold Grid or in relation to TFTokens.
+
+TFTech is the company who creates a lot of the opensource software as is used in the TFGrid. TFTech is also a contributor to the TF Foundation in the form of content or promotion, there is no legal connection in place.
+
+TFTech business model is to sell licenses and certify TFGrid farmers if that is what they require.
 
 ## GIG Tech
 
-The software company who created the software enabling the ThreeFold Grid.
-GIG Tech is selling additional services and software to allow any TF Farmer to create a Managed Capacity Farming Pool.
+The software company who created an original part of the software enabling the ThreeFold Grid back in 2017, at this point as far as we know nothing of that software is used any longer. GIG Tech was selling additional services and software to allow any TF Farmer to create a Managed Capacity Farming Pool.
+
 
 # Varia
 
@@ -209,6 +207,9 @@ GIG Tech is selling additional services and software to allow any TF Farmer to c
 A software application which allows anyone to consult how many TFTs they own and to make transfers of TFTs to other parties.
 The TF Wallet works together with the TF Chain.
 
+### History
 
-> original info was on https://docs.grid.tf/threefold/info/src/commit/d76ee324b6e37675a25f8365ea3a42fb9d22ffee/legal/definitions.md
+Original info was on https://docs.grid.tf/threefold/info/src/commit/d76ee324b6e37675a25f8365ea3a42fb9d22ffee/legal/definitions.md
+Outdated at this point.
+
 
