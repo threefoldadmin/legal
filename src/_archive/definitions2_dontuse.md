@@ -28,10 +28,10 @@ Units of IT capacity as used in a RP, starting from hardware level. More info se
 
 These are raw capacities as measured by our TF Software.
 
-## Resource Bundle (always per TF Node) (Bundle)
+## Resource Bundle (always per TFNode) (Bundle)
 
 - is x number of resource units bundled
-- a Resource Bundle is always per TF Node
+- a Resource Bundle is always per TFNode
 - e.g. resource bundel type A = 1 cpu unit + 2 mem unit + 3 hd unit + 1 ssd unit
 - the resource bundles are defined by the Farmers, its basically a unit of capacity sold. Users cannot buy individual Resource Units, Users buy Resource Bundles by transfering TFT.
 

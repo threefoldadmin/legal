@@ -34,6 +34,16 @@ In the case of TFF following remarks might be useful
 - A project is under way to officialize the structure with strict governance e.g. a company called ThreeFold VZW has been created in Belgium with official governance around non for profit structure. This company is not used yet. Other alternatives are being researched at this moment (Aug 2020).
 - ThreeFold FZC has farmed tokens which can be used as gifts towards contributors or employees.
 
+## Human Blockchain
+
+X nr of people use multi-signature function of the ThreeFold used blockchain technology to form a human blockchain.
+This means they need to find consensus amongst themselves before certain actions can be done.
+
+Today this is used by
+
+- 3 Councils see [threefold_councils](wiki:threefold_councils)
+- consensus between developers or other contributors around e.g. validation of minting of TFT
+
 
 ## ThreeFold Grid (TFG)
 
@@ -62,34 +72,28 @@ The ThreeFold Token is a digital Token which allows anyone to buy and sell IT Ca
 
 The TF Chain can issue a maximum of 4 billion tokens (gen 2).
 
-## TF Chain (TFC)
+## TFChain
 
-The blockchain technology as used by the ThreeFold Grid.
-This blockchain technology is used to
+Group of blockchain related technologies as used by ThreeFold to accomplish the following:
 
-- let you store & trade your TFTs: uses Stellar Public Blockchain platform
+- store & trade your TFTs: uses Stellar Public Blockchain platform
 - buy/sell capacity on the TFG: TFExplorer
 - register capacity of the TFG: TFExplorer
 - provision IT workloads on the TFG: TFExplorer
 - ...
 
-see the following [github repos](https://github.com/threefoldtech)
+see the following [github repos](https://github.com/threefoldtech) and https://github.com/threefoldfoundation/tft-stellar
 
-## TF Operating System 
+## Zero-OS (ZOS) or Capacity Layer
 
-The ThreeFold Operating system is the software which makes it possible to convert any pool of hardware to become an ultra efficient pool of resource for the ThreeFold Grid.
+The Zero-OS is the software which makes it possible to convert any pool of hardware to become a pool of resource for the ThreeFold Grid. 
 
-Based on 
+see [Zero-OS](https://github.com/threefoldtech/zos) = Ultra Efficient Stateless Operating System
 
-- [Zero-OS](https://github.com/threefoldtech/zos) = Ultra Efficient Stateless Operating System
+## Zero-People or Autonomous Layer
+
 - [Jumpscale](https://github.com/threefoldtech/js-ng) = Automation Framework (self healing, ...)
 
-## TF Node
-
-- is a compute/storage server which provides IT Capacity as source for the Cloud Units
-- a TF Node is part of a Farming Pool
-- TF Nodes are owned by TF Farmers.
-- The TF Node runs the TF Operating System and TF Chain (TFC).
 
 
 ## User 
@@ -97,19 +101,32 @@ Based on
 - is the person/organization/company who buys capacity from the TF Grid
 - capacity can only be bought by means of TFTs
 
+## TF Distributed exchange (TFExchange)
+
+Since March 2020 based on Stellar integrated Decentralized exchange and before Atomic Swaps.
+Mechanism for people to exchange TFT to other digital currencies in a decentralized way.
+Atomic Swaps were difficult to use, this got resolved by switching to Stellar blockchain.
+
+# ThreeFold Farming
+
+## TFNode
+
+- is a compute/storage server which provides IT Capacity as source for the Cloud Units
+- a TFNode is part of a Farming Pool
+- TFNodes are owned by TF Farmers.
+- The TFNode runs the TF Operating System and TF Chain (TFC).
+
 ## Cloud Units
 
 Units of IT capacity as sold from the TF Grid to Users.
 More info see [on our wiki](https://wiki.threefold.io/#/cloud_units)
 
 
-# ThreeFold Farming
-
 ## ThreeFold Farming Pool (FP)
 
 A Pool of storage & compute hardware which allows to provision IT Capacity.
 
-Each Farming Pool consists out of TF Nodes which run the TF Operating System and TF Blockchain Software (TF Chain) which allows anyone in the world to use this IT capacity to host their IT workloads (storage apps, archive capacity, web applications, artificial intelligence, iOT, docker containers, etc). To use this IT Capacity, through the TF Grid, people need to own ThreeFold Tokens (“TFTs”) as they are the only possible mechanism to purchase this capacity on the TF Grid. As such, TFTs represent a true utility. 
+Each Farming Pool consists out of TFNodes which run the TF Operating System and TF Blockchain Software (TF Chain) which allows anyone in the world to use this IT capacity to host their IT workloads (storage apps, archive capacity, web applications, artificial intelligence, iOT, docker containers, etc). To use this IT Capacity, through the TF Grid, people need to own ThreeFold Tokens (“TFTs”) as they are the only possible mechanism to purchase this capacity on the TF Grid. As such, TFTs represent a true utility. 
 
 
 ## ThreeFold Farmer
@@ -158,7 +175,7 @@ A Cooperative can supply any or all of following services.
 
 ## Do It Yourself Capacity (DIY, or Unmanaged Capacity)
 
-Unmanaged IT Capacity can exist everywhere; in people’s home, in mobile telephone masts, in utility cabinets, next to railways or motorways, anywhere where internet lines meet electrical outlets, any IT Hosting or Datacenter Facility. This capacity is deployed to the TF Grid and has no people involved to manage its operations (apart from the physical and network aspects).  Farmers have no access to the TF Nodes purchased. They can only use the capacity produced in the exact same way as any other user, i.e. through the TF Chain, in a secure private and neutral way, equally applicable to all.
+Unmanaged IT Capacity can exist everywhere; in people’s home, in mobile telephone masts, in utility cabinets, next to railways or motorways, anywhere where internet lines meet electrical outlets, any IT Hosting or Datacenter Facility. This capacity is deployed to the TF Grid and has no people involved to manage its operations (apart from the physical and network aspects).  Farmers have no access to the TFNodes purchased. They can only use the capacity produced in the exact same way as any other user, i.e. through the TF Chain, in a secure private and neutral way, equally applicable to all.
 
 Unmanaged capacity provides the following 3 basic services
 
@@ -178,7 +195,7 @@ Capacity which received certification as organized by ThreeFold Tech.
 
 Managed capacity is capacity that sits in a datacenter or other controlled environment where people operate and maintain supervision of the capacity connected to the TF Grid and published in the TF Directory. SLA (Service Level Agreements) are provided on this capacity like uptime, guaranteed bandwidth, response times, ...
 
-TF Farmers have access to the TF Nodes.
+TF Farmers have access to the TFNodes.
 
 Features Only Available In A Managed Capacity Farming Pool
 
@@ -206,7 +223,7 @@ Is the person or company or organization who buys The Product from The Company
 
 ## ThreeFold Tech (TFTech)
 
-Sofware Technology company in Belgium.
+Software Technology company in Belgium.
 
 Has no direct relationship with the TFGrid or TFTokens. TFTech does not farm and ThreeFold Tokens and has no impact or does not give any direction to anything happening on the ThreeFold Grid or in relation to TFTokens.
 
@@ -226,9 +243,10 @@ The software company who created an original part of the software enabling the T
 A software application which allows anyone to consult how many TFTs they own and to make transfers of TFTs to other parties.
 The TF Wallet works together with the TF Chain.
 
-### History
 
-Original info was on https://docs.grid.tf/threefold/info/src/commit/d76ee324b6e37675a25f8365ea3a42fb9d22ffee/legal/definitions.md
-Outdated at this point.
+
+
+
+> Original info was on https://docs.grid.tf/threefold/info/src/commit/d76ee324b6e37675a25f8365ea3a42fb9d22ffee/legal/definitions.md , Outdated at this point.
 
 
