@@ -241,12 +241,7 @@ The software company who created an original part of the software enabling the T
 ## TF Wallet
 
 A software application which allows anyone to consult how many TFTs they own and to make transfers of TFTs to other parties.
-The TF Wallet works together with the TF Chain.
-
-
-
-
-
-> Original info was on https://docs.grid.tf/threefold/info/src/commit/d76ee324b6e37675a25f8365ea3a42fb9d22ffee/legal/definitions.md , Outdated at this point.
+The TF Wallet works together with Stellar and is nothing but a javascript UI.
+TF Wallet is part of the 3botconnect app on mobile.
 
 
