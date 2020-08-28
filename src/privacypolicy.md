@@ -68,10 +68,7 @@ If you make a request, we have one month to respond to you. If you would like to
 
 * post address: 
 
-        ThreeFold Foundation,
-        p/a Antwerpse Steenweg 19,
-        B-9080 Lochristi,
-        Belgium
+        ThreeFold Foundation Dubai
 
 ### What are cookies? 
 
